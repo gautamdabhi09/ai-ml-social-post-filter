@@ -1,0 +1,322 @@
+[
+  {
+    "id": 18,
+    "platform": "Instagram",
+    "poster_name": "Robert Brown",
+    "poster_image": "https://example.com/images/robert_brown.jpg",
+    "post_content": "Excited about my internship in AI. Today's focus: supervised and unsupervised learning.",
+    "timestamp": "2026-06-18T23:45:44.580816Z"
+  },
+  {
+    "id": 11,
+    "platform": "Instagram",
+    "poster_name": "Neha Smith",
+    "poster_image": "https://example.com/images/neha_smith.jpg",
+    "post_content": "AI internship journey: From zero to building intelligent chatbots with NLP.",
+    "timestamp": "2026-06-07T23:45:44.580777Z"
+  },
+  {
+    "id": 13,
+    "platform": "LinkedIn",
+    "poster_name": "Shruti Smith",
+    "poster_image": "https://example.com/images/shruti_smith.jpg",
+    "post_content": "Learning TensorFlow and Keras for neural network development. Loving every bit of it!",
+    "timestamp": "2026-06-07T09:45:44.580789Z"
+  },
+  {
+    "id": 21,
+    "platform": "Instagram",
+    "poster_name": "Priya Davis",
+    "poster_image": "https://example.com/images/priya_davis.jpg",
+    "post_content": "Just finished the best pizza of my life! Margherita from the local Italian place 🍕",
+    "timestamp": "2026-06-26T06:45:44.580835Z"
+  },
+  {
+    "id": 30,
+    "platform": "Facebook",
+    "poster_name": "Pooja Williams",
+    "poster_image": "https://example.com/images/pooja_williams.jpg",
+    "post_content": "Hiking adventure: Summited the local mountain trail. Great weather!",
+    "timestamp": "2026-06-04T03:45:44.580918Z"
+  },
+  {
+    "id": 9,
+    "platform": "LinkedIn",
+    "poster_name": "Michael Martinez",
+    "poster_image": "https://example.com/images/michael_martinez.jpg",
+    "post_content": "Python for AI/ML - mastering the art of data preprocessing and feature engineering.",
+    "timestamp": "2026-06-22T23:45:44.580733Z"
+  },
+  {
+    "id": 35,
+    "platform": "Facebook",
+    "poster_name": "Vikram Sharma",
+    "poster_image": "https://example.com/images/vikram_sharma.jpg",
+    "post_content": "Music festival this weekend! Can't wait to hear my favorite bands live.",
+    "timestamp": "2026-06-15T18:45:44.580945Z"
+  },
+  {
+    "id": 22,
+    "platform": "LinkedIn",
+    "poster_name": "David Lopez",
+    "poster_image": "https://example.com/images/david_lopez.jpg",
+    "post_content": "Cricket match was amazing! India won by 5 runs. What a nail-biter!",
+    "timestamp": "2026-06-18T07:45:44.580842Z"
+  },
+  {
+    "id": 38,
+    "platform": "Facebook",
+    "poster_name": "Rajesh Williams",
+    "poster_image": "https://example.com/images/rajesh_williams.jpg",
+    "post_content": "Yoga session in the morning. Great way to start the day with calm and focus.",
+    "timestamp": "2026-07-02T19:45:44.580993Z"
+  },
+  {
+    "id": 14,
+    "platform": "Instagram",
+    "poster_name": "Rajesh Brown",
+    "poster_image": "https://example.com/images/rajesh_brown.jpg",
+    "post_content": "My first machine learning project: Predicting stock prices using LSTM networks.",
+    "timestamp": "2026-06-25T10:45:44.580795Z"
+  },
+  {
+    "id": 15,
+    "platform": "LinkedIn",
+    "poster_name": "Amit Kumar",
+    "poster_image": "https://example.com/images/amit_kumar.jpg",
+    "post_content": "AI/ML internship milestone: Built an object detection model using YOLOv8!",
+    "timestamp": "2026-06-29T20:45:44.580800Z"
+  },
+  {
+    "id": 8,
+    "platform": "LinkedIn",
+    "poster_name": "John Brown",
+    "poster_image": "https://example.com/images/john_brown.jpg",
+    "post_content": "Internship update: Building a recommendation system using collaborative filtering.",
+    "timestamp": "2026-06-04T09:45:44.580722Z"
+  },
+  {
+    "id": 12,
+    "platform": "Facebook",
+    "poster_name": "Priya Patel",
+    "poster_image": "https://example.com/images/priya_patel.jpg",
+    "post_content": "Data science bootcamp completed! Ready to tackle real-world ML problems.",
+    "timestamp": "2026-06-29T01:45:44.580783Z"
+  },
+  {
+    "id": 34,
+    "platform": "Instagram",
+    "poster_name": "David Miller",
+    "poster_image": "https://example.com/images/david_miller.jpg",
+    "post_content": "Gardening time: Growing tomatoes and basil in my backyard.",
+    "timestamp": "2026-06-17T22:45:44.580940Z"
+  },
+  {
+    "id": 20,
+    "platform": "LinkedIn",
+    "poster_name": "Shruti Singh",
+    "poster_image": "https://example.com/images/shruti_singh.jpg",
+    "post_content": "Machine learning with Python - from data collection to model deployment!",
+    "timestamp": "2026-06-26T00:45:44.580827Z"
+  },
+  {
+    "id": 40,
+    "platform": "Instagram",
+    "poster_name": "Sanjay Miller",
+    "poster_image": "https://example.com/images/sanjay_miller.jpg",
+    "post_content": "Sunday baking: Made chocolate chip cookies. Recipe from grandma! 🍪",
+    "timestamp": "2026-07-02T01:45:44.581004Z"
+  },
+  {
+    "id": 33,
+    "platform": "Instagram",
+    "poster_name": "Sarah Gupta",
+    "poster_image": "https://example.com/images/sarah_gupta.jpg",
+    "post_content": "Pet update: My dog learned a new trick today! So proud! 🐕",
+    "timestamp": "2026-06-17T05:45:44.580934Z"
+  },
+  {
+    "id": 7,
+    "platform": "Instagram",
+    "poster_name": "Zara Jones",
+    "poster_image": "https://example.com/images/zara_jones.jpg",
+    "post_content": "Working on NLP tasks - sentiment analysis using BERT. The results are incredible!",
+    "timestamp": "2026-06-20T16:45:44.580663Z"
+  },
+  {
+    "id": 27,
+    "platform": "Instagram",
+    "poster_name": "Shruti Lopez",
+    "poster_image": "https://example.com/images/shruti_lopez.jpg",
+    "post_content": "Coffee lovers unite! Found the best espresso in town. ☕",
+    "timestamp": "2026-06-03T10:45:44.580870Z"
+  },
+  {
+    "id": 29,
+    "platform": "Instagram",
+    "poster_name": "Emma Davis",
+    "poster_image": "https://example.com/images/emma_davis.jpg",
+    "post_content": "Cooking at home is fun. Today I made homemade pasta from scratch.",
+    "timestamp": "2026-06-12T09:45:44.580912Z"
+  },
+  {
+    "id": 16,
+    "platform": "Facebook",
+    "poster_name": "Emma Smith",
+    "poster_image": "https://example.com/images/emma_smith.jpg",
+    "post_content": "Python machine learning: Exploring ensemble methods and random forests.",
+    "timestamp": "2026-06-27T11:45:44.580805Z"
+  },
+  {
+    "id": 10,
+    "platform": "Instagram",
+    "poster_name": "Michael Lopez",
+    "poster_image": "https://example.com/images/michael_lopez.jpg",
+    "post_content": "Deep learning with PyTorch - creating convolutional neural networks for image classification.",
+    "timestamp": "2026-06-10T10:45:44.580767Z"
+  },
+  {
+    "id": 32,
+    "platform": "LinkedIn",
+    "poster_name": "Divya Kumar",
+    "poster_image": "https://example.com/images/divya_kumar.jpg",
+    "post_content": "Book review: Just finished reading The Great Gatsby. Classic literature at its best.",
+    "timestamp": "2026-06-09T19:45:44.580929Z"
+  },
+  {
+    "id": 3,
+    "platform": "Instagram",
+    "poster_name": "Michael Brown",
+    "poster_image": "https://example.com/images/michael_brown.jpg",
+    "post_content": "Building my first machine learning model using scikit-learn. Predicting house prices! 🎯",
+    "timestamp": "2026-06-18T20:45:44.580636Z"
+  },
+  {
+    "id": 36,
+    "platform": "Instagram",
+    "poster_name": "Divya Williams",
+    "poster_image": "https://example.com/images/divya_williams.jpg",
+    "post_content": "Vegetarian cooking challenge: Day 15 of trying new recipes!",
+    "timestamp": "2026-06-09T13:45:44.580979Z"
+  },
+  {
+    "id": 1,
+    "platform": "Facebook",
+    "poster_name": "Priya Rodriguez",
+    "poster_image": "https://example.com/images/priya_rodriguez.jpg",
+    "post_content": "Just completed my AI/ML internship! Learned so much about neural networks and TensorFlow. Excited for what's next!",
+    "timestamp": "2026-06-14T05:45:44.580462Z"
+  },
+  {
+    "id": 2,
+    "platform": "LinkedIn",
+    "poster_name": "Priya Jones",
+    "poster_image": "https://example.com/images/priya_jones.jpg",
+    "post_content": "Finally understood how transformers work in deep learning. NLP is fascinating!",
+    "timestamp": "2026-06-13T12:45:44.580624Z"
+  },
+  {
+    "id": 24,
+    "platform": "Facebook",
+    "poster_name": "David Nair",
+    "poster_image": "https://example.com/images/david_nair.jpg",
+    "post_content": "Fashion tip: Minimalist wardrobe is the way to go. Less is more!",
+    "timestamp": "2026-06-10T02:45:44.580854Z"
+  },
+  {
+    "id": 31,
+    "platform": "LinkedIn",
+    "poster_name": "Vikram Smith",
+    "poster_image": "https://example.com/images/vikram_smith.jpg",
+    "post_content": "Photography hobby: Learning portrait photography. Tips appreciated!",
+    "timestamp": "2026-06-20T14:45:44.580924Z"
+  },
+  {
+    "id": 5,
+    "platform": "LinkedIn",
+    "poster_name": "Pooja Gupta",
+    "poster_image": "https://example.com/images/pooja_gupta.jpg",
+    "post_content": "Started my summer internship in AI. Day 1 was all about neural networks. Ready to learn!",
+    "timestamp": "2026-06-10T20:45:44.580650Z"
+  },
+  {
+    "id": 25,
+    "platform": "Instagram",
+    "poster_name": "Rajesh Gupta",
+    "poster_image": "https://example.com/images/rajesh_gupta.jpg",
+    "post_content": "Travel diaries: Finally visited the Taj Mahal. Absolutely breathtaking! 😍",
+    "timestamp": "2026-06-13T06:45:44.580859Z"
+  },
+  {
+    "id": 19,
+    "platform": "LinkedIn",
+    "poster_name": "Ananya Kumar",
+    "poster_image": "https://example.com/images/ananya_kumar.jpg",
+    "post_content": "Data science project: Clustering analysis on customer segmentation using K-means.",
+    "timestamp": "2026-06-15T16:45:44.580821Z"
+  },
+  {
+    "id": 17,
+    "platform": "Facebook",
+    "poster_name": "Sanjay Davis",
+    "poster_image": "https://example.com/images/sanjay_davis.jpg",
+    "post_content": "Neural networks are the future! Just finished implementing a simple perceptron from scratch.",
+    "timestamp": "2026-07-03T06:45:44.580810Z"
+  },
+  {
+    "id": 39,
+    "platform": "LinkedIn",
+    "poster_name": "Divya Rodriguez",
+    "poster_image": "https://example.com/images/divya_rodriguez.jpg",
+    "post_content": "Gaming marathon: Finished the new Elden Ring DLC. Epic!",
+    "timestamp": "2026-06-21T00:45:44.580999Z"
+  },
+  {
+    "id": 26,
+    "platform": "Facebook",
+    "poster_name": "Divya Gupta",
+    "poster_image": "https://example.com/images/divya_gupta.jpg",
+    "post_content": "Workout update: Completed my 30-day fitness challenge. Feeling stronger than ever!",
+    "timestamp": "2026-06-07T11:45:44.580865Z"
+  },
+  {
+    "id": 4,
+    "platform": "LinkedIn",
+    "poster_name": "Aditya Gupta",
+    "poster_image": "https://example.com/images/aditya_gupta.jpg",
+    "post_content": "Python is amazing for data science. NumPy and Pandas make data manipulation so easy.",
+    "timestamp": "2026-06-19T21:45:44.580643Z"
+  },
+  {
+    "id": 28,
+    "platform": "LinkedIn",
+    "poster_name": "Aditya Johnson",
+    "poster_image": "https://example.com/images/aditya_johnson.jpg",
+    "post_content": "Movie review: Inception is a masterpiece. Mind-bending and incredible!",
+    "timestamp": "2026-06-24T23:45:44.580902Z"
+  },
+  {
+    "id": 23,
+    "platform": "Facebook",
+    "poster_name": "Neha Davis",
+    "poster_image": "https://example.com/images/neha_davis.jpg",
+    "post_content": "New season of my favorite series dropped today. Can't wait to binge-watch! 📺",
+    "timestamp": "2026-06-20T04:45:44.580848Z"
+  },
+  {
+    "id": 37,
+    "platform": "LinkedIn",
+    "poster_name": "Karan Hernandez",
+    "poster_image": "https://example.com/images/karan_hernandez.jpg",
+    "post_content": "New car! Finally upgraded from my old sedan. Feeling excited! 🚗",
+    "timestamp": "2026-06-07T18:45:44.580988Z"
+  },
+  {
+    "id": 6,
+    "platform": "LinkedIn",
+    "poster_name": "Neha Hernandez",
+    "poster_image": "https://example.com/images/neha_hernandez.jpg",
+    "post_content": "Machine learning project complete! Achieved 92% accuracy on the classification task.",
+    "timestamp": "2026-06-15T16:45:44.580657Z"
+  }
+]

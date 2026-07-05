@@ -21,3 +21,9 @@ An intelligent AI/ML-based application that filters social media posts from mult
 - **Version Control**: Git & GitHub
 
 ## Project Structure
+
+ai-ml-social-post-filter/
+├── mock_data.json # 40 fake posts
+├── filter_posts.py # AI filtering
+├── app.py # Web UI
+... etc
